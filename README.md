@@ -1,5 +1,4 @@
-# -MorseMate-Speech-to-Morse-and-Text-Conversion-Assistant-
-# Python Morse Code Converter
+
 
 This Python script efficiently converts text to Morse code and vice versa. It also supports voice-to-text conversion using the `speech_recognition` library.
 
